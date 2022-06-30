@@ -9,3 +9,5 @@ In the haze folder :
 * ec1, ec2, ec3, ec4, ec5, ec6 correspond to six different lighting conditions.
 
 TO DO : rewrite GT names
+
+![Caption](img/eclairages.png "Several lighting conditions")
