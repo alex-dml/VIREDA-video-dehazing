@@ -2,7 +2,7 @@
 
 The dataset is available at the following link:
 
-https://drive.google.com/file/d/1x8OHaLg-CvXvCwajkThejCdFsM1UNJ_K/view?usp=sharing
+https://drive.google.com/file/d/1PsEUCpRXAy_v_OF-siz5CDmRUIt0hdYn/view?usp=sharing
 
 In the haze folder : 
 * 0.015, 0.05, 0.15 correspond to different haze density.
