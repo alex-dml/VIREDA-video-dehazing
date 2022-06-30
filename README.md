@@ -1,4 +1,4 @@
-# Video dehazing data test
+# VIREDA : A new VIdeo REal-world dataset for the comparison of  Defogging Algorithms 
 
 The dataset is available at the following link:
 
