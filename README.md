@@ -11,3 +11,14 @@ In the haze folder :
 Include csv files !
 
 ![Caption](img/eclairages.png "Several lighting conditions")
+
+Associated publication:
+@InProceedings{	  jpt-aspai22,
+  author	= {Duminil, A. and Tarel, J.-P. and Br\'emond, R.},
+  title		= {A New Real-World Video Dataset for the Comparison of Defogging Algorithms},
+  booktitle	= {International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI'22)},
+  date		= {October 19-21},
+  address	= {Corfu, Greece},
+  year		= {2022},
+  url		= {http://perso.lcpc.fr/tarel.jean-philippe/publis/aspai22.html}
+}
