@@ -13,13 +13,13 @@ Include csv files.
 Associated publication:
 
 @InProceedings{	  jpt-aspai22,  
-  author	= {Duminil, A. and Tarel, J.-P. and Brémond, R.},  
-  title		= {A New Real-World Video Dataset for the Comparison of Defogging Algorithms},  
-  booktitle	= {International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI'22)},  
-  date		= {October 19-21},  
-  address	= {Corfu, Greece},  
-  year		= {2022},  
-  url		= {http://perso.lcpc.fr/tarel.jean-philippe/publis/aspai22.html}  
+    author	= {Duminil, A. and Tarel, J.-P. and Brémond, R.},  
+    title		= {A New Real-World Video Dataset for the Comparison of Defogging Algorithms},  
+    booktitle	= {International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI'22)},  
+    date		= {October 19-21},  
+    address	= {Corfu, Greece},  
+    year		= {2022},  
+    url		= {http://perso.lcpc.fr/tarel.jean-philippe/publis/aspai22.html}  
 }
 
 ![Caption](img/eclairages.png "Several lighting conditions")
