@@ -8,9 +8,8 @@ In the haze folder :
 * 0.015, 0.05, 0.15 correspond to different haze density.
 * ec1, ec2, ec3, ec4, ec5, ec6 correspond to six different lighting conditions.
 
-Include csv files.
 
-Associated publication:
+Publication to be referred when using the Vireda database :
 
 @InProceedings{	  jpt-aspai22,  
     author	= {Duminil, A. and Tarel, J.-P. and Brémond, R.},  
