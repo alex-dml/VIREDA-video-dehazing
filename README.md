@@ -11,15 +11,10 @@ In the haze folder :
 
 Publication to be referred when using the Vireda database :
 
-@InProceedings{	  jpt-aspai22,  
-    author	= {Duminil, A. and Tarel, J.-P. and Brémond, R.},  
-    title		= {A New Real-World Video Dataset for the Comparison of Defogging Algorithms},  
-    booktitle	= {International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI'22)},  
-    date		= {October 19-21},  
-    address	= {Corfu, Greece},  
-    year		= {2022},  
-    url		= {http://perso.lcpc.fr/tarel.jean-philippe/publis/aspai22.html}  
-}
+Alexandra Duminil, Jean-Philippe Tarel, Roland Brémond. A New Real-World Video Dataset for the Comparison of Defogging Algorithms. 
+Advances in Signal Processing and Artificial Intelligence (ASPAI' 2022), Oct 2022, Corfu, Greece. ⟨hal-04220349⟩
+
+https://doi.org/10.57745/IZKSF9
 
 ![Caption](img/eclairages.png "Several lighting conditions")
 
